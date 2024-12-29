@@ -1,0 +1,5 @@
+GameIinterViewClient/Library
+GameIinterViewClient/Temp
+GameIinterViewClient/Logs
+*.csproj
+GameIinterViewClient/GameIinterViewClient.sln
