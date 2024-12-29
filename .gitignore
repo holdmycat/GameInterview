@@ -3,3 +3,5 @@ GameIinterViewClient/Temp
 GameIinterViewClient/Logs
 *.csproj
 GameIinterViewClient/GameIinterViewClient.sln
+GameIinterViewClient/.idea
+GameIinterViewClient/obj
